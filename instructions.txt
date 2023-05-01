@@ -144,3 +144,7 @@ web-safe font in the sans-serif family as a fallback.
 
 Also, add a border-bottom of 4px solid #dfdfe2 to h2 elements to make the 
 sections distinct.
+
+Step 18
+To be able to navigate within the page, give each anchor element an href 
+corresponding to the id of the h2 elements.
