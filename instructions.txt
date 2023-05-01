@@ -148,3 +148,9 @@ sections distinct.
 Step 18
 To be able to navigate within the page, give each anchor element an href 
 corresponding to the id of the h2 elements.
+
+Step 19
+Filling out the content of the quiz, below #student-info, add three div 
+elements with a class of info.
+
+Then, within each div nest one label element, and one input element.
