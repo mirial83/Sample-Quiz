@@ -74,3 +74,11 @@ without affecting the resolution of the resultant image.
 Currently, the img is assuming its default size, which is too large. 
 Correctly, scale the image using it's id as a selector, and setting 
 the width to max(100px, 18vw).
+
+Step 9
+As described in the freeCodeCamp Style Guide, the logo should retain 
+an aspect ratio of 35 / 4, and have padding around the text.
+
+First, change the background-color to #0a0a23 so you can see the logo. 
+Then, use the aspect-ratio property to set the desired aspect ratio to 
+35 / 4. Finally, add a padding of 0.4rem all around.
