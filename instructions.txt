@@ -65,3 +65,12 @@ https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg,
 and have an id of logo.
 
 The h1 should contain the text HTML/CSS Quiz.
+
+Step 8
+A useful property of an SVG (scalable vector graphics) is that it 
+contains a path attribute which allows the image to be scaled 
+without affecting the resolution of the resultant image.
+
+Currently, the img is assuming its default size, which is too large. 
+Correctly, scale the image using it's id as a selector, and setting 
+the width to max(100px, 18vw).
