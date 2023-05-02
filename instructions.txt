@@ -413,3 +413,12 @@ that targets all input and label elements within an .info element
 and set the display property to inline-block.
 
 Also, align the label element's text to the right.
+
+Step 58
+To neaten the .question-block elements, set the following CSS properties:
+
+text-align: left;
+display: block;
+width: 100%;
+margin-top: 20px;
+padding-top: 5px;
