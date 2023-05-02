@@ -288,3 +288,10 @@ of no, and the text No.
 Step 38
 Link the first label element to the select element, and 
 give the select element a name attribute.
+
+Step 39
+Nest one textarea element within the second div.answer 
+element, and set the number of rows and columns it has.
+
+Then, give the textarea placeholder text describing an 
+example answer.
