@@ -452,3 +452,7 @@ padding: 15px;
 font-size: 23px;
 background: #d0d0d5;
 border: 3px solid #3b3b4f;
+
+Step 63
+Set the footer background color to #2a2a40, and use Flexbox to
+horizontally center the text.
