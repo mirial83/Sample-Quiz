@@ -74,6 +74,16 @@ h2 {
     padding-bottom: 0;
     padding-right: 0;
 }
+.formrow {
+    margin-top: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+input {
+    font-size: 16px;
+}
 .sr-only {
     position: absolute;
     width: 1px;
