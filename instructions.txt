@@ -264,3 +264,10 @@ can be selected at a time.
 Step 34
 To prevent unnecessary repetition, target the before pseudo-element of 
 the p element, and give it a content property of "Question #".
+
+Step 35
+The final section of this quiz will contain a dropdown, and a text box.
+
+Begin by nesting a div with a class of formrow, and nest four div 
+elements inside of it, alternating their class attributes with q
+uestion-block and answer.
