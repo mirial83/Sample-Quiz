@@ -384,3 +384,6 @@ Then, use margins to center the section elements, adding 10px to the
 bottom margin.
 
 Also, ensure the section elements cannot be larger than 600px in width.
+
+Step 52
+Replace the top margin of the h2 elements with 60px of top padding.
