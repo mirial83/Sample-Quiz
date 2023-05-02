@@ -247,3 +247,9 @@ element.
 
 Now, add a for attribute to each of your four labels that links the 
 label to its corresponding radio input.
+
+Step 32
+Give the label elements text such that the input comes before the text. 
+Then, give the input elements a value matching the text.
+
+The text should either be True or False.
