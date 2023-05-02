@@ -461,3 +461,7 @@ Step 64
 Now, we cannot read the text. Target the footer and the anchor
 element within to set the font color to a color of adequate
 contrast ratio.
+
+Step 65
+Horizontally center all the text within the address element,
+and add some padding.
