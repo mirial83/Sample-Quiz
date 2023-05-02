@@ -186,3 +186,6 @@ to add visible text to the label, is to add text only a screen reader can read.
 
 Append a span element with a class of sr-only to the current text content 
 of the third label element.
+
+Step 24
+Within the span element, add the text (Date of Birth).
