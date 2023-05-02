@@ -191,7 +191,8 @@ Step 24
 Within the span element, add the text (Date of Birth).
 
 Step 25
-The .sr-only text is still visible. There is a common pattern to visually hide text for only screen readers to read.
+The .sr-only text is still visible. There is a common pattern to visually hide 
+text for only screen readers to read.
 
 This pattern is to set the following CSS properties:
 
@@ -206,3 +207,10 @@ white-space: nowrap;
 border: 0;
 Use the above to define the sr-only class.
 
+Step 26
+Within the second section element, add two div elements with a class of 
+question-block.
+
+Then, within each div.question-block element, add one p element with text 
+of incrementing numbers, starting at 1, and one fieldset element with a 
+class of question.
