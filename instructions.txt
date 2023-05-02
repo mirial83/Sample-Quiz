@@ -430,3 +430,9 @@ following CSS properties:
 margin-top: 5px;
 padding-left: 15px;
 font-size: 20px;
+
+Step 60
+It is useful to see the default border around the fieldset elements,
+during development. However, it might not be the style you want.
+
+Remove the border and bottom padding on the .question elements.

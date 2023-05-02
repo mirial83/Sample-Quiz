@@ -101,6 +101,10 @@ input {
     min-width: 55px;
     text-align: right;
 }
+.question {
+    border: none;
+    padding: 0;
+}
 .question-block {
     text-align: left;
     display: block;
