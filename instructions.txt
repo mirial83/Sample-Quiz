@@ -220,3 +220,10 @@ Each fieldset will contain a true/false question.
 
 Within each fieldset, nest one legend element, and one ul element with 
 two options.
+
+Step 28
+Give each fieldset an adequate name attribute. Then, give both unordered 
+lists a class of answers-list.
+
+Finally, use the legend to caption the content of the fieldset by placing 
+a true/false question as the text content.
