@@ -165,3 +165,7 @@ the input.
 This section will take a student's name, email address, and date of birth. 
 Give the label elements appropriate for attributes, as well as text content. 
 Then, link the input elements to the corresponding label elements.
+
+Step 21
+Keeping in mind best-practices for form inputs, give each input an appropriate 
+type and name attribute. Then, give the first input a placeholder attribute.
